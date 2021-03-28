@@ -42,3 +42,4 @@ jobs:
 
       - name: Build Electron app
         run: yarn do src/electron/build
+
